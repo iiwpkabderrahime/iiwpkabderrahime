@@ -15,13 +15,13 @@
 ### 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=iiwpkabderrahime&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=iiwpkabderrahime&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=iiwpkabderrahime&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiwpkabderrahime&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiwpkabderrahime&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iiwpkabderrahime&theme=tokyonight" alt="GitHub Streak" />
 </p>
