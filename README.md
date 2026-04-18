@@ -111,6 +111,7 @@ A personal biography and portfolio showcase.
 An interactive Apollo 11 mission experience.
 
 </div>
+
 ---
 
 <div align="center">
@@ -133,7 +134,5 @@ An interactive Apollo 11 mission experience.
 **Happy Coding!** 🚀
 
 </div>
-
-
 
 
