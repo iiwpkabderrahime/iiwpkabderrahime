@@ -32,12 +32,101 @@
 
 ---
 
-### 📊 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iiwpkabderrahime&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+# 🎨 Frontend Mentor
+
+## My Frontend Mentor Solutions & Projects
+
+</div>
 
 ---
+
+## 🌱 Newbie
+
+<div align="center">
+
+[![Newbie](https://img.shields.io/badge/Newbie-Recipe%20Page-00D4FF?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/media-flex-box-C8MLgFqUZC)
+[![Newbie](https://img.shields.io/badge/Newbie-Social%20Links-00D4FF?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/centering-elements-dJrQTP6HRZ)
+[![Newbie](https://img.shields.io/badge/Newbie-Huddle%20Landing%20Page-00D4FF?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/media-mmfaMGc9yO)
+
+[![Newbie](https://img.shields.io/badge/Newbie-Blog%20Preview%20Card-00D4FF?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/grid-IDeR1FHrmC)
+[![Newbie](https://img.shields.io/badge/Newbie-QR%20Code%20Component-00D4FF?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/flex-gird-JFMXHvQCNs)
+[![Newbie](https://img.shields.io/badge/Newbie-Results%20Summary%20Component-00D4FF?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/css-r2RgKBglel)
+
+[![Newbie](https://img.shields.io/badge/Newbie-Single%20Price%20Grid%20Component-00D4FF?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/-3uwbVTvMlr)
+
+</div>
+
+---
+
+## 👨‍💼 Junior
+
+<div align="center">
+
+[![Junior](https://img.shields.io/badge/Junior-Clipboard%20Landing%20Page-1DD1A1?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/scroll-animation--vcJfV8-Md)
+[![Junior](https://img.shields.io/badge/Junior-Bento%20Grid-1DD1A1?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/grid-p0a0u6bL1z)
+[![Junior](https://img.shields.io/badge/Junior-Fylo%20Data%20Storage%20Component-1DD1A1?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/grid-7cJwIKHCGf)
+
+</div>
+
+---
+
+## 📈 Intermediate
+
+<div align="center">
+
+*Coming Soon...*
+
+</div>
+
+---
+
+## 🚀 Advanced
+
+<div align="center">
+
+*Coming Soon...*
+
+</div>
+
+---
+
+## 💡 My Own Projects
+
+<div align="center">
+
+### 🌍 FD Biography
+
+[![Visit](https://img.shields.io/badge/Visit-fd--biography.vercel.app-FF6B6B?style=for-the-badge&logoColor=white)](https://fd-biography.vercel.app/)
+
+A personal biography and portfolio showcase.
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Progress
+
+| Level | Status | Count |
+|-------|--------|-------|
+| 🌱 Newbie | ✅ | 7 |
+| 👨‍💼 Junior | ✅ | 3 |
+| 📈 Intermediate | ⏳ Coming Soon | - |
+| 🚀 Advanced | ⏳ Coming Soon | - |
+
+</div>
+
+---
+
+<div align="center">
+
+**Happy Coding!** 🚀
+
+</div>
+
 
 
 
