@@ -1,3 +1,4 @@
+
 # Hi there, I'm Abderrahime! 👋
 
 ### 🎓 About Me
@@ -33,6 +34,5 @@ I'm a CS student, currently focusing on learning web development.
 
 ---
 
-<p align="center">
-  <img src="https://i.giphy.com/media/OFHQ3qVrGeErs42dEc/giphy.gif" width="400" />
-</p>
+<img width="480" height="480" alt="Bayer 04 Thumbs Up GIF by Bayer 04 Leverkusen" src="https://github.com/user-attachments/assets/357bd467-23e7-44c6-9049-0dfb879b2c34" />
+
