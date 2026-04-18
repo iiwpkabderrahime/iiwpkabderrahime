@@ -102,8 +102,15 @@
 
 A personal biography and portfolio showcase.
 
-</div>
+---
 
+### 🚀 Apollo 11
+
+[![Visit](https://img.shields.io/badge/Visit-apollo11.vercel.app-FF6B6B?style=for-the-badge&logoColor=white)](https://apollo11.vercel.app/)
+
+An interactive Apollo 11 mission experience.
+
+</div>
 ---
 
 <div align="center">
