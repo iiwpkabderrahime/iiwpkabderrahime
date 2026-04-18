@@ -33,6 +33,8 @@ I'm a CS student, currently focusing on learning web development.
 </p>
 
 ---
-![Uploading Bayer 04 Thumbs Up GIF by Bayer 04 Leverkusen.gif…]()
+<div align="center">
+<img width="480" height="480" alt="Bayer 04 Thumbs Up GIF by Bayer 04 Leverkusen" src="https://github.com/user-attachments/assets/d70d23ca-ecbe-42fa-9b59-cb5a8fe59f05" />
+</div>
 
 
