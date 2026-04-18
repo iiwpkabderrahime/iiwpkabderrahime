@@ -1,8 +1,7 @@
 # Hi there, I'm Abderrahime! 👋
 
 ### 🎓 About Me
-I'm a Computer Science student passionate about building and improving my skills every day.  
-Currently, I'm focusing on learning **web development** and building **responsive web designs**.
+I'm a CS student, currently focusing on learning web development.
 
 ---
 
