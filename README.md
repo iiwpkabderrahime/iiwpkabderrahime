@@ -65,7 +65,6 @@
 <div align="center">
 
 [![Junior](https://img.shields.io/badge/Junior-Clipboard%20Landing%20Page-1DD1A1?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/scroll-animation--vcJfV8-Md)
-[![Junior](https://img.shields.io/badge/Junior-Bento%20Grid-1DD1A1?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/grid-p0a0u6bL1z)
 [![Junior](https://img.shields.io/badge/Junior-Fylo%20Data%20Storage%20Component-1DD1A1?style=for-the-badge&logoColor=white)](https://www.frontendmentor.io/solutions/grid-7cJwIKHCGf)
 
 </div>
