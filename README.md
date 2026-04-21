@@ -93,23 +93,7 @@
 
 ## 💡 My Own Projects
 
-<div align="center">
 
-### 🌍 FD Biography
-
-[![Visit](https://img.shields.io/badge/Visit-fd--biography.vercel.app-FF6B6B?style=for-the-badge&logoColor=white)](https://fd-biography.vercel.app/)
-
-A personal biography and portfolio showcase.
-
----
-
-### 🚀 Apollo 11
-
-[![Visit](https://img.shields.io/badge/Visit-apollo11.vercel.app-FF6B6B?style=for-the-badge&logoColor=white)](https://apollo11.vercel.app/)
-
-An interactive Apollo 11 mission experience.
-
-</div>
 
 ---
 
